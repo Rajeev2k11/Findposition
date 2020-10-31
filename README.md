@@ -1,3 +1,17 @@
+                                                                        TASKLIST:
+
+The tasklist here are in no order. You are the owner of the project and are required to priortized on what you think is appropriate.
+
+This is a Mini app that can draw rectangle shapes like figma/sketch. You are required to add some logging when shapes are hovered with the mouse. The app is written in React framework. Create a new branch and push your commit. Don't do in master branch.
+
+1 Feature - Mouse coordinates: Hovering any shape should also log the real-time x/y-coordinate of the mouse relative to shape dimension the centre for this relative co-ordinate system should be bottom left point of the shape also the point should shown as integers.
+
+2.Feature- Adding Shapes: here is what should happen after this feature is implemented: a.) if we click anywhere on the window a model should open.b. There should be a form inside the model asking for 4 things top, left, width and height of the shape to be added. c.) submitting that form should add a new shape on the page according to the data field in the form.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
